@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Lab5" t="IncludeRecursive">
+        <e p="AsyncAwait" t="Include">
+          <e p="AsyncAwait.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EventDriven" t="Include">
+          <e p="EventDrivenImpl.cs" t="Include" />
+        </e>
+        <e p="Helper" t="Include">
+          <e p="HttpHelper.cs" t="Include" />
+          <e p="StateObject.cs" t="Include" />
+        </e>
+        <e p="Lab5.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Lab5.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskDriven" t="Include">
+          <e p="TaskDriven.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Lab5.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Lab5.1396883048.00" t="ExcludeRecursive" />
+  </component>
+</project>

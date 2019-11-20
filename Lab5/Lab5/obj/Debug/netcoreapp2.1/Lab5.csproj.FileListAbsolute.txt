@@ -1,0 +1,11 @@
+/Users/teofanamoisi/Desktop/Lab5/Lab5/bin/Debug/netcoreapp2.1/Lab5.deps.json
+/Users/teofanamoisi/Desktop/Lab5/Lab5/bin/Debug/netcoreapp2.1/Lab5.runtimeconfig.json
+/Users/teofanamoisi/Desktop/Lab5/Lab5/bin/Debug/netcoreapp2.1/Lab5.runtimeconfig.dev.json
+/Users/teofanamoisi/Desktop/Lab5/Lab5/bin/Debug/netcoreapp2.1/Lab5.dll
+/Users/teofanamoisi/Desktop/Lab5/Lab5/bin/Debug/netcoreapp2.1/Lab5.pdb
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.csprojAssemblyReference.cache
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.csproj.CoreCompileInputs.cache
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.AssemblyInfoInputs.cache
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.AssemblyInfo.cs
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.dll
+/Users/teofanamoisi/Desktop/Lab5/Lab5/obj/Debug/netcoreapp2.1/Lab5.pdb
