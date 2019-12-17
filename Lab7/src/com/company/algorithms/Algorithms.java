@@ -26,6 +26,7 @@ public class Algorithms {
 
         List<Integer> result = new ArrayList<>();
         List<Mutex> mutexes = new ArrayList<>();
+
         for (Integer integer : input) {
             result.add(integer);
             mutexes.add(new Mutex());
